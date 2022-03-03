@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.p_all {
+    padding: 1rem;
+}
+
+.m_all {
+    margin: 1rem;
+}
+
+.m_center {
+    margin: 0 auto;
+}
+
+.txt_white {
+    color: white;
+}
